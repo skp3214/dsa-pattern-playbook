@@ -3,7 +3,7 @@
 ## 📋 Table of Contents
 - [What is Two Pointers?](#what-is-two-pointers)
 - [When to Use Two Pointers](#when-to-use-two-pointers)
-- [Qestion Sheets]()
+- [Question Sheets](#question-sheets)
 
 ## What is Two Pointers?
 
@@ -21,5 +21,9 @@ The **Two Pointers** technique uses two references (indices/pointers) to travers
 
 ## Question Sheets
 
-- [Two Sum](https://leetcode.com/problems/two-sum/description/)
-- [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+| Problem Name | Difficulty |
+|-------------|------------|
+| [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy |
+| [Remove Duplicates from Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
+| [Square of a sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | Easy |
+| [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium |
