@@ -27,3 +27,5 @@ The **Two Pointers** technique uses two references (indices/pointers) to travers
 | [Remove Duplicates from Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |
 | [Square of a sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) | Easy |
 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium |
+| [3 Sum](https://leetcode.com/problems/3sum/description/) | Medium |
+| [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | Medium |
