@@ -29,3 +29,5 @@ The **Two Pointers** technique uses two references (indices/pointers) to travers
 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium |
 | [3 Sum](https://leetcode.com/problems/3sum/description/) | Medium |
 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | Medium |
+| [Triplet with Smaller Sum](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | Medium |
+| [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | Medium |
