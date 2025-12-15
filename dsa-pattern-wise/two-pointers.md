@@ -5,13 +5,13 @@
 - [When to Use Two Pointers](#when-to-use-two-pointers)
 - [Question Sheets](#question-sheets)
 
-## What is Two Pointers?
+## [What is Two Pointers?]()
 
 The **Two Pointers** technique uses two references (indices/pointers) to traverse a data structure, typically moving in a coordinated way to solve problems efficiently in **O(n)** time instead of **O(n²)**.
 
 **Data Structures:** Primarily used with: `ARRAY`, `STRINGS`, `LINKEDLIST`
 
-## When to Use Two Pointers
+## [When to Use Two Pointers]()
 
 - Sorted Data or Can Be Sorted
 - Need to Compare/Process Elements from Different Positions
@@ -19,7 +19,7 @@ The **Two Pointers** technique uses two references (indices/pointers) to travers
 - Merging or comparing two Sequences
 - Cycle Detection
 
-## Question Sheets
+## [Question Sheets]()
 
 | Problem Name | Difficulty |
 |-------------|------------|
