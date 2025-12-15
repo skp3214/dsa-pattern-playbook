@@ -61,3 +61,5 @@ The **Sliding Window** technique is used to process sequential data (arrays/stri
 
 | Problem Name | Difficulty |
 |-------------|------------|
+|[Max Sum SubArray of Size K](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)|Easy|
+|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|Medium|
